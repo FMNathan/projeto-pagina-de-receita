@@ -5,7 +5,7 @@ Uma página de receita de Cupcake com café.</p>
 <br>
 
 <p align="center">
-  <img alt="receita de cupcake de café com chantilly" src="./assets/preview.png" width="40%">
+  <img alt="receita de cupcake de café com chantilly" src="./assets/preview.png" width="70%">
 </p> 
 
 ## 🚀 Tecnologias
